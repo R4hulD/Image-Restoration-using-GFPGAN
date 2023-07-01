@@ -1,6 +1,6 @@
 # Image-Restoration-using-GFPGAN
 
-## GFPGAN - Towards Real-World Blind Face Restoration with Generative Facial Prior
+### GFPGAN - Towards Real-World Blind Face Restoration with Generative Facial Prior
 GFPGAN is a blind face restoration algorithm towards real-world face images.
 It leverages the generative face prior in a pre-trained GAN (e.g., StyleGAN2) to restore realistic faces while precerving fidelity.
 
